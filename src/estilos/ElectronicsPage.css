@@ -1,0 +1,19 @@
+.electronics-page {
+    background-color: antiquewhite;
+}
+  
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product-card img {
+    width: 150px; /* ajusta el ancho según sea necesario */
+    height: 150px; /* permite que la altura se ajuste proporcionalmente */
+  }
+  
+.product-card {
+    width: 300px; /* O el ancho deseado */
+    margin: 10px; /* Ajusta el margen según sea necesario */
+}
